@@ -2,13 +2,13 @@
 &nbsp;
 
 ### - Object Detection & Tracking
-&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://uniofmora-my.sharepoint.com/:f:/g/personal/180241m_uom_lk/ElRQEVN4QB9GpUsJegfInS0BhJD22ZPBoS2KjgVW12vHDQ)
+&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://drive.google.com/drive/folders/1zjOz4-o91givGDJEhosIv7UDaMX-g896?usp=sharing)
 <br><br>
 
 ### - Re-Id
-&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://uniofmora-my.sharepoint.com/:f:/g/personal/180241m_uom_lk/Ei60opkT1_tEnc05Nh2xFrMBcLTx57iNBy5Lcc1ypAziRg)
+&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://drive.google.com/drive/folders/1ocKS8lRjAa0u1lVKcoW-3WSiHPLy1z2r?usp=sharing)
 <br><br>
 
 ### - Activity Detection
-&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://uniofmora-my.sharepoint.com/:f:/g/personal/180241m_uom_lk/EkhUswwBiXdHhGBOiuv1tZQBCilwOf5qWbj8jWfGyw23Ww)
+&nbsp;&nbsp;&nbsp;&nbsp; Link: [Click here](https://drive.google.com/drive/folders/1MRWGZO6Qmw952WIPxi5eSfsiR52R5VLw?usp=sharing)
 <br><br>
